@@ -1,3 +1,9 @@
+## Deployed on Netrlify
+
+https://happy-brown-a9d48f.netlify.app/
+
+![alt text](./appqrcode.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
